@@ -1,0 +1,25 @@
+nav {
+  ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    color: #22252a;
+    color: #ecc983;
+    color: #ecaf83;
+    color: #e46772;
+    color: #e580be;
+    color: #6fadeb;
+    color: #85e0e0;
+    color: #97ce97;
+  }
+
+  li {
+    display: inline-block;
+  }
+
+  a {
+    display: block;
+    padding: 6px 12px;
+    text-decoration: none;
+  }
+}

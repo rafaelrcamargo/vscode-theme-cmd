@@ -1,0 +1,6 @@
+.vscode/**
+samples/**
+.gitignore
+vsc-extension-quickstart.md
+screenshots/**
+gulpfile.js
