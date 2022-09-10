@@ -123,7 +123,7 @@
     {
       "name": "Storage",
       "scope": ["storage"],
-      "settings": { "foreground": "#6fadeb", "fontStyle": "bold" }
+      "settings": { "foreground": "#6fadeb" }
     },
     {
       "name": "Storage Type Annotation,storage Type Primitive",
